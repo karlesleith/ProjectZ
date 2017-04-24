@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerDamageManager : MonoBehaviour {
 
+    public int damage;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -13,4 +15,13 @@ public class PlayerDamageManager : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.name == "Player")
+         {
+            MonoBehaviour.print("Hit");
+            other.gameObject.GetComponent<PlayerHealthManager>().PlayerDamage(damage);
+    }
+    }
 }

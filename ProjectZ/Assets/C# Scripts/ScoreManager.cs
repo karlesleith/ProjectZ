@@ -10,6 +10,7 @@ public class ScoreManager : MonoBehaviour {
     public float scoreCounter;
     public float hiScoreCounter;
 
+    //How many points you get the longer you survive
     public float pointsPerSecond;
 
     public bool scoreIncrease;
@@ -19,7 +20,10 @@ public class ScoreManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+	    if(PlayerPrefs.GetFloat("HighScore") != null)
+        {
+            hiScoreCounter = PlayerPrefs.GetFloat("HighScore");
+        }
 
 	}
 	
@@ -30,10 +34,15 @@ public class ScoreManager : MonoBehaviour {
 
         if (player.activeSelf)
         {
-
             scoreCounter += pointsPerSecond * Time.deltaTime;
-            scoreText.text = "Score : " + Mathf.Round(scoreCounter);
-            hiScoreText.text = "Highscore : " + hiScoreCounter;
+            if (scoreCounter > hiScoreCounter)
+            {
+                 hiScoreCounter = scoreCounter;
+                PlayerPrefs.SetFloat("HighScore", hiScoreCounter);
+            }
+                scoreText.text = "Score : " + Mathf.Round(scoreCounter);
+                hiScoreText.text = "Highscore : " + Mathf.Round(hiScoreCounter);
+         
 
         }
 	}

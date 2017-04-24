@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerCtrl : MonoBehaviour {
 
@@ -30,6 +31,12 @@ public class PlayerCtrl : MonoBehaviour {
 	void Update () {
         //At the start of every frame set the Player Movemnet to Flase
         playerMoving = false;
+
+
+        if (Input.GetKey("escape"))
+            SceneManager.LoadScene("MainMenu");
+
+
 
         if (!playerAttacking)
         {

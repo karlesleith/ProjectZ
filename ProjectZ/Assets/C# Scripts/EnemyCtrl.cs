@@ -76,7 +76,7 @@ public class EnemyCtrl : MonoBehaviour {
         }
 	}
 
-    void OnCollisionEnter2D(Collision2D other)
+   /* void OnCollisionEnter2D(Collision2D other)
     {
         if(other.gameObject.name == "Player")
         {
@@ -87,5 +87,5 @@ public class EnemyCtrl : MonoBehaviour {
            // reloading = true;
             //thePlayer = other.gameObject;
         }
-    }
+    }*/
 }
