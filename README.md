@@ -5,7 +5,8 @@ Top-Down Arcade Style Shooter Developed in Unity, To be submitted as the Profess
 **Karle Sleith**
 
 ## Video Demostration
-https://www.youtube.com/watch?v=5osXAy9OFT4 
+**15 Min Project Runthrough**  https://www.youtube.com/watch?v=5osXAy9OFT4 
+**2 Min Playthrough**  https://youtu.be/qbz7aensdZ0
 
 ## Concept Paper (Design Before Programming)
 Genre, Target Audience, Description, Features, Cost and Time to Develop, End Goals.
