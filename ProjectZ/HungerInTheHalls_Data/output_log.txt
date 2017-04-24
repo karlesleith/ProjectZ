@@ -1,252 +1,50 @@
 Initialize engine version: 5.5.1f1 (88d00a7498cd)
 GfxDevice: creating device client; threaded=1
-Initialize engine version: 5.5.1f1 (88d00a7498cd)
-GfxDevice: creating device client; threaded=1
-DiiectctD:     VVersiion::   irircecD D 11.0[leve  11.0]     Re
-nde rer: NVIDIA GeForce 940M (ID=0x1347)
-  R Vededrrer:  VIVDDIA 
- eForcReM: 940M  ( I02=0x1MB47
-)  D   verndo  2   2N.VI.45A2
-   VRAM:     2020 MB
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
     Driver:   21.20.16.4542
-BegginnMMonoMManagerr RelooadAsssembbly
-
-PPataotf orsm bas: em:\ly:ers:\Uareers\lKitrleD Sulentsh\Doocumen\HuProjectZ\HungerInTheHalls_Data\Mannggine.dll n(thi.dlles(thges message is )h
-armless)L
-oading C:\Uisers\\Ksarl\K arli tlei\Docoumentts\ProjeectZ\HungerrInTeHalllls_Data\Manage\U\UityEnginne.dl into Un UnitChChild Domain
-ild Domain
-Platform assembly: P:lUsers\KarleaStform aoscubly: C:\Prsejrs\Karule rleith\Dallsuments\ProjectZ\ged\erInTheHlyl-s_Data\MinrstpaAs.sdll (this mpessagepis h.drml ss)t
-hisLmeoadagg e is ers\rmaerle
-leith\oading enC:\\roUsers\Huarle SneitTheHcalls_D\atoa\Man\HungerInTheHaals_d\Assembly-Cd\Assp-fimbly-pass.dClhariptofiUsniasys.hild Domtain
-ity Child Domain
-Plalformfor assembly: C:\C:\Usserrs\Karle Sleiith\DocmumentsroPrectZ\Hun\HungergneherallT_hetaHalls_Data\seamagey-CShasep.mlbly-CShamessagll  this meslesss
-age iLoaarmlng Ce\Uses)r
-s\KarLoadinithg C:\mUnts\Psojrs\taZ\HuSlgerInTheitllsDocDumentans\Pd\Assembly-CShaorp.tZ\Hl ingo rInTheH Chlls_ild DManaged\
-Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Karle SleiPhlaocufoem as\Prmbly:cC:\Users\Katle HulngerInocumeHalls_Data\Managsd\UnityE\giroject.d\ll (trhnisemessase_iD harmlenaged\sni)yEngine.Uading C:\Users\Kargeles harmless) 
-LoaSiegiCh:Docu\eUsers\KarlectZSleith\DocuHungerInTheHmllst_Dato\ManageZ\HungerInTde\HalltyDangine.UI.dnaged\UnityEngl inio e.UIi.dlC hild DnitmainCh
-ld Domain
-Platftrform assembly:\Use:\U\Kerle SleitehSlDoich\Domente\nts\ectZojeHucgerI\nunTereHalls_DataIMnTheHalls_DyEa\Mannaged\orUiitgyEngi(nhe.Nmessege orking.isl ha(thmlessme)sa
-ge is harmoading)
-LoadiC:\Usng ers\Kaele Sleithl\ oclueith\DorojmecttZ\HungetZ\HungerIInheHaheHallDat_\Maataagaedged\UnUniEngint.yetngrkne.Netdorkininto UnitygChilllindtDoma n
-nity Child Domain
-Platform alatfossemblsemblCy: ser:\Userle SleithrDocuments\lePtojeDocum\Hunts\PrInTheHalls_Dotae\canagued\UnityEnalgineaPla\MmodeTes\UnitunnEngrine. (this messastse is harmllesthi
- messaLe adin hargl ss)
-ULoers\ng le :\Sleith\Docrle Sl\ProjectZ\Huegets\IPTheojectZsHungerta\nThMHanageDd\UnityangeneUniaymodeTestsRunter.ngdll inaymodeTity ChildestoRuain
-nner.dll into Unity Child Domain
-Platform assembly: C:\Users\Karle Sleith\Dlatform assembly:oCc\Umere\Ktsr\P Sleith\DocumentsnProjeHallZ\Hungea\ManageHeld\UData\MEanaged\Annalytics.dll (this mess (ge is harsmgleiss h
-armlesLoa
-dingLC:\UadingKarl CSleiUhsers\Karle\ProjectZh\ungerInTheHalls_Data\MagnrInTghed\UnitData\Managed\UnityEnginei.Ao Unity ChlyldicDs.dll 
-into Unity Child Domain
-- Completed reload, in  0.050 seconds
-- Completed reload, in  0.052 seconds
-Platform assembly: C:\Users\Karle Sleith\Documents\ProjectZ\HungerInTheHalls_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Karle Sleith\Documents\ProjectZ\HungerInTheHalls_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Karle Sleith\Documents\ProjectZ\HungerInTheHalls_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\Karle Sleith\Documents\ProjectZ\HungerInTheHalls_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Karle Sleith\Desktop\ProjectZ\ProjectZ\HungerInTheHalls_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
-<RI> Initializing inputXInput1_3.dll not found. Trying XInput9_1_0.dll i
-nstead...
-<RI> Input initialized.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.364697 ms
+UnloadTime: 5.034664 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 13.632017 ms
+UnloadTime: 5.976317 ms
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 437.
-Total: 8.788064 ms (FindLiveObjects: 0.073386 ms CreateObjectMapping: 0.032426 ms MarkObjects: 0.385280 ms  DeleteObjects: 8.265823 ms)
+Total: 5.305171 ms (FindLiveObjects: 0.033279 ms CreateObjectMapping: 0.020479 ms MarkObjects: 0.294399 ms  DeleteObjects: 4.937811 ms)
 
 100
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-100Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-85Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-70Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-55Taken
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.489921 ms
+UnloadTime: 3.405651 ms
 
 Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 318.
-Total: 8.986464 ms (FindLiveObjects: 0.043520 ms CreateObjectMapping: 0.014506 ms MarkObjects: 0.224426 ms  DeleteObjects: 8.702731 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.488533 ms
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 437.
-Total: 4.934406 ms (FindLiveObjects: 0.044800 ms CreateObjectMapping: 0.016640 ms MarkObjects: 0.275200 ms  DeleteObjects: 4.596912 ms)
-
-100
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-100Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-85Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-70Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-55Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-40Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-25Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-10Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-0Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.000961 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 437.
-Total: 0.361813 ms (FindLiveObjects: 0.038826 ms CreateObjectMapping: 0.016213 ms MarkObjects: 0.299093 ms  DeleteObjects: 0.006826 ms)
-
-100
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-100Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-85Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-70Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-55Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-40Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-25Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-10Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-0Taken
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.962561 ms
-
-Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 318.
-Total: 11.976547 ms (FindLiveObjects: 0.035413 ms CreateObjectMapping: 0.017920 ms MarkObjects: 0.320427 ms  DeleteObjects: 11.601507 ms)
+Total: 14.311673 ms (FindLiveObjects: 0.098133 ms CreateObjectMapping: 0.073813 ms MarkObjects: 1.114879 ms  DeleteObjects: 13.021861 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 27cc -> priority: 1 
+  Thread -> id: 1f10 -> priority: 1 
